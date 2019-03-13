@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "122606985234",
+    "firebase_url": "https://rivchatdemo-746ea.firebaseio.com",
+    "project_id": "rivchatdemo-746ea",
+    "storage_bucket": "rivchatdemo-746ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122606985234:android:1244c56be0518ae9",
+        "android_client_info": {
+          "package_name": "com.android.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122606985234-6vhc2hv5clo8jvup4nlun1e78qvs57ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.rivchat",
+            "certificate_hash": "3934693c92015a5db36b10bb9fad6b34eedb4d40"
+          }
+        },
+        {
+          "client_id": "122606985234-iuv3bbthd3e8mferdiq4eiidg893jebo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBo1ROkRsF52OffbG2NkiZ_fP6boZzHNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122606985234-iuv3bbthd3e8mferdiq4eiidg893jebo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
