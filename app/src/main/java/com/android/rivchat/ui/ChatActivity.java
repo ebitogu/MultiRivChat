@@ -104,6 +104,7 @@ public class ChatActivity extends AppCompatActivity implements View.OnClickListe
                         newMessage.idSender = (String) mapMessage.get("idSender");
                         newMessage.idReceiver = (String) mapMessage.get("idReceiver");
                         newMessage.text = (String) mapMessage.get("text");
+                        newMessage.fileUrl = (String)mapMessage.get("fileUrl");
                         newMessage.timestamp = (long) mapMessage.get("timestamp");
                         consersation.getListMessageData().add(newMessage);
                         adapter.notifyDataSetChanged();
